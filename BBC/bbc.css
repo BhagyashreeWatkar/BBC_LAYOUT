@@ -1,0 +1,119 @@
+.menu{background: #000;color: #fff;overflow: auto;}
+.first img{margin-top: 10px;}
+.first a{text-decoration: none;color:#fff;border-left: 1px solid #4a4a4a;display: block;padding: 10px 10px;}
+.menu_list li{list-style: none;text-transform: capitalize;float: left;font-size: 15px;}
+.menu_list a{text-decoration: none;color: #fff;border-left: 1px solid;display:block;padding: 10px 20px;}
+.txt{padding: 5px 5px; margin: 5px; border-left: 1px solid #4a4a4a;color: #000;}
+.welcome_bbc{padding-top: 20px;padding-bottom: 50px;}
+.date span{float: left;margin-left: 20px; font-size: 20px;color: #4a4a4a;margin-bottom: 15px;}
+.date p{float: right;margin-right: 50px;font-size: 20px; color: #4a4a4a; margin-bottom: 15px;}
+
+.welcome{background: #eee;overflow: auto;}
+.pro1_img{position: relative;}
+.image1_wel{position: absolute;z-index: 10;overflow: auto;color: #eee;top: 62%;}
+.image1_wel h1{margin: 0 10px;margin-bottom: 10px;font-size: 30px;}
+.image1_wel p{margin-left: 10px;margin-bottom: 10px;color: #eee;}
+.image1_wel a{text-decoration: none;color: #eee;margin-left: 10px;border-left: 3px solid red;padding-left: 5px;}
+
+.pro2_img{position: relative;}
+.image2_wel{position: absolute;z-index: 10;overflow: auto;top: 60%;color: #fff;margin-bottom: 10px;
+	margin-left: 5px;}
+.image2_wel h4{font-size:20px;}
+.image2_wel a{text-decoration: none;color: #fff;border-left: 3px solid red;padding-left: 2px;}
+
+.pro3_img{position: relative;}
+.image3_wel{position: absolute;z-index: 10;overflow: auto;top: 60%;color: #fff;margin-bottom: 10px;
+	margin-left: 5px;}
+.image3_wel h4{font-size:20px;}
+.image3_wel a{text-decoration: none;color: #fff;border-left: 3px solid red;padding-left: 2px;}
+
+.pro4_img{position: relative;}
+.image4_wel{position: absolute;z-index: 10;overflow: auto;top: 58%;color: #fff;margin-bottom: 10px;
+	margin-left: 5px;}
+.image4_wel h4{font-size:20px;}
+.image4_wel a{text-decoration: none;color: #fff;border-left: 3px solid red;padding-left: 2px;}
+
+.pro5_img{position: relative;}
+.image5_wel{position: absolute;z-index: 10;overflow: auto;top: 58%;color: #fff;margin-bottom: 10px;
+	margin-left: 5px;}
+.image5_wel h4{font-size:20px;}
+.image5_wel a{text-decoration: none;color: #fff;border-left: 3px solid red;padding-left: 2px;}
+
+.news{margin-top: 20px;}
+.news img{padding-top: 10px;}
+.news a{text-decoration: none;color:#000;font-weight: bold;font-size: 22px;text-transform: capitalize;}
+.news p{font-size: 17px;padding: 10px 0;color: #000;}
+.heading a{text-decoration: none;margin-left: 13px;border-left: 3px solid red;padding-left: 5px;
+	font-size: 30px;color: #34495e;cursor: pointer;margin-top: 20px;margin-bottom: 4px;}
+
+.sports{margin-top: 20px;}
+.sports img{padding-top: 10px;}
+.sports a{text-decoration: none;color: #000;text-transform: capitalize;cursor: pointer;font-size: 20px;
+	font-weight: bold;}
+.sports p{font-size: 17px;padding: 10px 0;color: #000;}
+.heading_2 a{text-decoration: none;text-transform: capitalize;color: #34495e;font-size: 30px;
+	border-left: 3px solid red;padding-left: 5px; margin-left: 13px;font-weight: bold;}
+
+.india{margin-top: 20px;}
+.india img{padding-top: 10px;}
+.india a{text-decoration: none;text-transform: capitalize;font-size: 20px;cursor: pointer;color: #000;
+font-weight: bold;}
+.india p{font-size: 17px;padding: 10px 0;color: #000;}
+.heading_3 a{text-decoration: none;color: #34495e;border-left: 3px solid red;font-size: 30px;
+text-transform: capitalize;cursor: pointer;padding-left: 5px;margin-left: 13px;font-weight: bold;}
+
+.india,.sport,.news{margin:40px 0;}
+
+
+.col-md-12 img{margin-left: 10px;padding-top: 10px;}
+.editors .col-md-4 img{margin-bottom: 10px;}
+.editors a{text-decoration: none;text-transform: capitalize;font-size: 20px;color: #000;font-weight: bold;}
+.editors p{font-size: 15px;padding:10px 0;}
+.editors img{padding: 10px 0;}
+.editors{margin-top: 20px; background: #d6dbdf;}
+.editor_first{position: relative;}
+.editor_text{position: absolute;z-index: 10;overflow: auto;top: 82%;margin-left: 12px;}
+.editor_text a{text-decoration: none;text-transform: capitalize;font-size: 30px;color:#dc7633;
+	padding-bottom: 15px;padding-left: 5px;font-weight: bold;}
+.editor_text p{padding-left: 5px;font-size: 20px;color: #34495e;}
+.heading_4 a{text-decoration: none;text-transform: capitalize;color: #34495e;border-left: 3px solid red;
+cursor: pointer;padding-left: 5px;margin-left: 13px;font-weight: bold;font-size: 30px;}
+
+
+.top_list_heading{text-transform: uppercase;background: #e91802;padding:10px 10px;
+	margin-top: 10px;font-size: 16px;color: #fff;}
+.odd{list-style: none;background:#363636;padding: 35px 15px;}
+.even{list-style: none;padding: 35px 15px;background:#252525;color:}
+.top_list_data{display: block; color: #fff; margin-left: 45px;}
+.top_list_bullet{position: absolute;display: block;border-radius: 50%;background: #e91802;
+color: #fff;width: 40px;height: 40px;text-align: center;}
+
+
+.big_img{margin-top: 25px;}
+.heading_5 h2{text-transform: uppercase;padding: 10px 0;}
+.big_img img{margin-bottom: 10px;}
+.big_img a{text-decoration: none;color: #000;border-left: 3px solid red;padding-left: 5px;
+text-transform: capitalize;}
+.big_img h3{padding-top: 10px;font-size: 22px;font-weight: bold;}
+
+
+.large{background: #d6dbdf;margin-top: 20px;}
+
+.large .col-md-4 a{font-size:18px;text-transform: capitalize;text-decoration: none;color:#000;
+	font-weight:bold;padding:0 10px}
+.heading_6 h2{text-transform: capitalize;border-left: 3px solid blue;padding-left: 5px;margin-bottom: 10px;
+font-size: 30px;font-weight: bold; margin-left: 10px;}
+.large_heading h2{background: #e91802;color: #fff;padding-top: 10px;padding-bottom: 5px;
+	padding-left: 8px;}
+
+.large_odd{background: #363636;color: #fff;list-style: none;padding: 22px 10px;}
+.large_even{background: #252525;list-style: none;padding: 22px 10px;color: #fff;}
+.large_bullet{position: absolute;display: block;border-radius: 50%;background: #e91802;
+width: 40px;height: 40px;}
+.large_data{margin-left: 45px;display: block;cursor: pointer;}
+
+/*.large .col-md-4 img{padding-top: 10px;} */
+.white_back{background: #fff;margin-top: 7px;}
+.white_back h3{text-align: left;padding-top: 5px;padding-left: 5px;}
+.white_back p{padding: 5px 3px;margin-left: 5px;}
+/*.white_back img{margin-bottom: 10px;}*/
